@@ -1,8 +1,6 @@
 # Hi, I'm Mercy Ali Peter
 
-Operations professional with experience supporting multi-country operations across Nigeria and South Africa.
-
-My background includes procurement, vendor management, payment operations, travel logistics, executive support, facilities management, project coordination, and AI evaluation.
+Operations professional with experience supporting multi-country operations across Nigeria and South Africa. My work spans procurement, payment operations, vendor management, travel logistics, executive support, facilities management, project coordination, and AI evaluation. I am currently building an AI Operations portfolio focused on prompt engineering, operational systems, process documentation, and AI evaluation projects.
 
 ## Areas of Expertise
 - Operations Management
