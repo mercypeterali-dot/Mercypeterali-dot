@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mercy Ali Peter
 
-<!--
-**mercypeterali-dot/Mercypeterali-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations professional with experience supporting multi-country operations across Nigeria and South Africa.
 
-Here are some ideas to get you started:
+My background includes procurement, vendor management, payment operations, travel logistics, executive support, facilities management, project coordination, and AI evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+- Operations Management
+- AI Training & Evaluation
+- AI Operations
+- Project Coordination
+- Procurement & Vendor Management
+- Executive Operations
+- Google Workspace
+- Microsoft Excel
+
+## Currently Building
+- AI Operations portfolio
+- Prompt engineering projects
+- Operations dashboards
+- Process documentation
+- AI evaluation case studies
+
+I'm open to remote opportunities in AI Operations, Operations Management, Project Coordination, and AI Training & Evaluation.
